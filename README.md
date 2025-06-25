@@ -18,7 +18,8 @@ How to use it?
 i'll show in kali linux OS.
 Run your code in your platform (run as sudo).
 
-![image](https://github.com/kensh1k/offsec_scapy/assets/160190495/391702eb-da07-4c43-9fd7-2d82a8b9b463)
+![image](https://github.com/user-attachments/assets/83d48207-5d10-4e98-affa-fa37cfcfb6ea)
+
 
 1- make a port scan
 
@@ -32,7 +33,9 @@ if you type 1(scan), the program will ask you an target ip- example: 192.168.20.
 
 next step is to inform the ports:
 
-![image](https://github.com/kensh1k/offsec_scapy/assets/160190495/e07a4b30-5590-48cc-a4f9-3cafc56d29e5)
+![image](https://github.com/user-attachments/assets/72f7a074-e08d-4f5b-888d-0c295f523e56)
+
+
 
 1- best ports in range 20-7071
 
