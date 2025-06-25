@@ -33,7 +33,8 @@ if you type 1(scan), the program will ask you an target ip- example: 192.168.20.
 
 next step is to inform the ports:
 
-![image](https://github.com/user-attachments/assets/72f7a074-e08d-4f5b-888d-0c295f523e56)
+![image](https://github.com/user-attachments/assets/7bb5d4f0-c478-42c0-b2ee-8651e914e73d)
+
 
 
 
@@ -47,7 +48,8 @@ and the program will return to you the open ports.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/kensh1k/offsec_scapy/assets/160190495/a7f47d24-8072-4a58-8ae5-a0967d2dafbd)
+![image](https://github.com/user-attachments/assets/34db2947-1c14-46db-ba29-1c600cf738a7)
+
 
 if you typed 2(sniff), the program will ask you an network cards- example: eth0.
 
@@ -59,7 +61,7 @@ To exit the program type 4.
 
 enjoy the experience ;)
 
-i am sorry for my bad english, i am still training and improving!!
 
 
-![excited-minions-gif](https://github.com/kensh1k/offsec_scapy/assets/160190495/30ceee0c-64f4-49fe-8ad4-1adb57818193)
+![image](https://github.com/user-attachments/assets/95e466f0-4ab4-4807-8905-36fd0d3432e4)
+
